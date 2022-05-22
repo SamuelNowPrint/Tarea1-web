@@ -1,3 +1,6 @@
 Esta es mi tarea #1 de Samuel Rojas. Captures de pantalla:
 
-![Mis capture de pantalla](img1,img2,img3,img4)
+![Mi capture de pantalla](img1)
+![Mi capture de pantalla](img2)
+![Mi capture de pantalla](img3)
+![Mi capture de pantalla](img4)
